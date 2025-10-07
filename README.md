@@ -1,2 +1,2 @@
-# clone-do-site-d0-starbucks
+# clone-do-site-do-starbucks
 Site do starbucks feito em HTML e CSS
