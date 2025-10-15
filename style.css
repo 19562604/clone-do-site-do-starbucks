@@ -15,6 +15,7 @@
 
 html, body{
      height: 20px 0;
+     overflow-x: hidden;
      overflow-y: hidden;
 }
 
@@ -57,7 +58,7 @@ section.sobre{
 
 .social-media{
      position: absolute;
-     left: 510px;
+     left: 400px;
      top: 200px;
 }
 
@@ -78,7 +79,7 @@ section.sobre{
 .texto-sobre p{
      margin: 20px 0;
      color: black;
-     font-size: 14px;
+     font-size: 20px;
      font-weight: bold;
      max-width: 800px;
 }
